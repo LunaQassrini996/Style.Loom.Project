@@ -1,8 +1,8 @@
 import { useEffect } from "react";
 import ProductComp2 from "../../Components/ProductComp2/ProductComp2";
 import ElevateYourWardrobeSection from "../../Components/ElevateYourWardrobeSection/ElevateYourWardrobeSection";
-import Testimonials from "../../Components/Testimonials/Testimonials";
-import FaqQuestions from "../../Components/FaqQuestions/FaqQuestions";
+import Testimonials from "../../components/Testimonials/Testimonials";
+import FaqQuestions from "../../components/FaqQuestions/FaqQuestions";
 
 
 export default function ProductsPage() {
