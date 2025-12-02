@@ -1,8 +1,8 @@
 
 import { useEffect } from "react";
 import ProductDetails from "../../Components/ProductDetails/ProductDetails"
-import Testimonials from "../../Components/Testimonials/Testimonials";
-import FaqQuestions from "../../Components/FaqQuestions/FaqQuestions";
+import Testimonials from "../../components/Testimonials/Testimonials";
+import FaqQuestions from "../../components/FaqQuestions/FaqQuestions";
 import ElevateYourWardrobeSection from "../../Components/ElevateYourWardrobeSection/ElevateYourWardrobeSection";
 
 
