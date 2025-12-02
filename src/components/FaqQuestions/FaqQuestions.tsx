@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import type { RootState } from "../../redux/store/store";
 import arrowDown from "/assets/Images/Home page photos/Icon.svg";
-import TopBanner from "../TopBanner/TopBanner";
+import TopBanner from "../../Components/TopBanner/TopBanner";
 import { setCurrentFaqs } from "../../redux/slices/faqSlice";
 import { motion } from "framer-motion";
 const FaqQuestions = () => {
