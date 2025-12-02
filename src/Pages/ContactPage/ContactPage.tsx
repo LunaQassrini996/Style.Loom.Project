@@ -1,8 +1,8 @@
 import { useEffect } from "react";
 import CardContainer from "../../Components/CardContainer/CardContainer";
 import ContactInformationSection from "../../Components/ContactInformationSection/ContactInformationSection";
-import FaqQuestions from "../../Components/FaqQuestions/FaqQuestions";
-import Testimonials from "../../Components/Testimonials/Testimonials";
+import FaqQuestions from "../../components/FaqQuestions/FaqQuestions";
+import Testimonials from "../../components/Testimonials/Testimonials";
 
 
 
