@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { useSelector } from "react-redux";
 import type { RootState } from "../../redux/store/store";
 import type { Testimonial } from "../../redux/types/Testimonialstypes";
-import TopBanner from "../TopBanner/TopBanner";
+import TopBanner from "../../Components/TopBanner/TopBanner";
 import { motion } from "framer-motion";
 const Testimonials = () => {
   const testimonials = useSelector(
